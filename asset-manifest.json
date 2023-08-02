@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.c67a9753.css",
-    "main.js": "/static/js/main.b9ffe5dc.js",
+    "main.js": "/static/js/main.2dde17ee.js",
     "static/js/787.c0c5c760.chunk.js": "/static/js/787.c0c5c760.chunk.js",
-    "static/media/rental-img-2.gif": "/static/media/rental-img-2.170e3de67fadca914070.gif",
+    "static/media/rental-img-1.gif": "/static/media/rental-img-1.170e3de67fadca914070.gif",
     "static/media/clinic-img-1.gif": "/static/media/clinic-img-1.164473879723b9b44f44.gif",
-    "static/media/rental-img-1.gif": "/static/media/rental-img-1.cf07a33ce9aafd38b400.gif",
     "static/media/html-concept-bg.webp": "/static/media/html-concept-bg.b8b0dc6e382d23f2b0cf.webp",
     "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -21,11 +20,11 @@
     "static/media/img3.webp": "/static/media/img3.d77b5944322421b4bc6d.webp",
     "index.html": "/index.html",
     "main.c67a9753.css.map": "/static/css/main.c67a9753.css.map",
-    "main.b9ffe5dc.js.map": "/static/js/main.b9ffe5dc.js.map",
+    "main.2dde17ee.js.map": "/static/js/main.2dde17ee.js.map",
     "787.c0c5c760.chunk.js.map": "/static/js/787.c0c5c760.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c67a9753.css",
-    "static/js/main.b9ffe5dc.js"
+    "static/js/main.2dde17ee.js"
   ]
 }
